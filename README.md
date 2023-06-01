@@ -1,5 +1,7 @@
 ### Hi there 👋
-#My name is Clessio, 
+My name is Clessio,
+I am QA Engineer work at Auditeste company.
+currently working on my personal project of automation tests. 
 
 <!--
 **clessio44/clessio44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
